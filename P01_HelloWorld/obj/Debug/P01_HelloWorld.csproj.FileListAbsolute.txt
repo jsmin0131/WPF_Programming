@@ -1,0 +1,14 @@
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\bin\Debug\P01_HelloWorld.exe.config
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\bin\Debug\P01_HelloWorld.exe
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\bin\Debug\P01_HelloWorld.pdb
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\obj\Debug\App.g.cs
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\obj\Debug\P01_HelloWorld_MarkupCompile.cache
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\obj\Debug\P01_HelloWorld_MarkupCompile.lref
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\obj\Debug\MainWindow.baml
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\obj\Debug\P01_HelloWorld.g.resources
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\obj\Debug\P01_HelloWorld.Properties.Resources.resources
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\obj\Debug\P01_HelloWorld.csproj.GenerateResource.cache
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\obj\Debug\P01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\obj\Debug\P01_HelloWorld.exe
+C:\Users\박현민\Desktop\정상민\WPF_Programming\P01_HelloWorld\obj\Debug\P01_HelloWorld.pdb
